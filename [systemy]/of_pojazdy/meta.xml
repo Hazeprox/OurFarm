@@ -1,0 +1,7 @@
+<meta>
+<script src = "server.lua" type="server"/>
+<script src = "przecho_s.lua" type="server"/>
+<script src = "przecho_c.lua" type="client"/>
+<export function="createPrivCar" type="server"/>
+<export function="findVeh" type="server"/>
+</meta>

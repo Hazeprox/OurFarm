@@ -1,0 +1,14 @@
+<meta>
+<script src="logowanie_c.lua" type="client"/>
+<script src="camera.lua" type="client"/>
+<script src="logowanie_s.lua" />
+
+
+<file src="logo.png"/>
+<file src="zarb.png"/>
+<file src="logb.png"/>
+<file src="enter.png"/>
+<file src="lewo.png"/>
+<file src="prawo.png"/>
+
+</meta>

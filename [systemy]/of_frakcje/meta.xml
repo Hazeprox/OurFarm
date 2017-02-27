@@ -1,0 +1,4 @@
+<meta>
+<script src = "duty_c.lua" type = "client" />
+<script src = "duty_s.lua" type = "server" />
+</meta>

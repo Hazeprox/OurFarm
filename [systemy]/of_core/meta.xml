@@ -1,0 +1,24 @@
+<meta>
+    <script src="db.lua" type="server"/>
+	<script src="players.lua" type="server"/>
+	<script src="utlis.lua"/>
+	<script src="komendy_s.lua" type="server"/>
+	<script src="chat.lua" type="server"/>
+	<script src="komendy.lua" type="client"/>
+	<script src="hud.lua" type="client"/>
+	<script src="zapisGraczy.lua" type="server"/>
+	
+	<file src="button.png"/>
+	<file src="hud.png"/>
+	<file src="window.png"/>
+	<export function="getPlayerRank" type="server"/>
+	<export function="update" type="server"/>
+	<export function="addPlayerPoints" type="server"/>
+	<export function="setPlayerPoints" type="server"/>
+	<export function="removeAdmin" type="server"/>
+	<export function="addAdmin" type="server"/>
+	<export function="pobierzTabeleWynikow" type="server"/>
+	<export function="pobierzWyniki" type="server"/>
+	<export function="zapytanie" type="server"/>
+	<export function="zapytanieID" type="server"/>
+</meta>

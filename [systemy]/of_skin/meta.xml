@@ -1,0 +1,4 @@
+<meta>
+ <script src="c_skiny.lua" type="client"/>
+ <script src="s_skiny.lua" type="server"/>
+</meta>

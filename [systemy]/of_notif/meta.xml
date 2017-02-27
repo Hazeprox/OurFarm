@@ -1,0 +1,6 @@
+<meta>
+
+	<script src="not_s.lua" type="server"/>
+	<script src="not_c.lua" type="client"/>
+	<export function="createNotif" type="server"/>
+</meta>
